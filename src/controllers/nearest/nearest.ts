@@ -39,8 +39,6 @@ export const getNearHospitalsCSV = (req: Request, res: Response) => {
 		return;
 	}
 
-	console.log("csvFilePath-->", csvFilePath); // roberto
-
 	const augmentedCoord = Object.create([]);
 
 	csv()
