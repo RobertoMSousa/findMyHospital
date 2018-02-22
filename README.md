@@ -19,7 +19,8 @@
 Find Nearest Hospital
 
 ### Description
-
+Basic example that gets the 5 nearest point when given two coordinates.
+This project has two routes one that uses a MongoDB with all the points and other that reads and calculates the distance manually from a CSV file. This was intended to compare the performance difference between them.
 
 
 ### Author
