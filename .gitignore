@@ -1,6 +1,5 @@
 /node_modules/
 /assets
-.env
 /.vscode/
 /coverage/
 /dist/
